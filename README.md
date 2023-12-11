@@ -1,7 +1,7 @@
 # app-anmes
 Names for apps
 ## URL Shortener
-- [ ] shortcut
+- [x] shortcut
 - [ ] shorthand
 - [ ] shortcutting
 - [ ] shorten
